@@ -78,6 +78,9 @@ Launch the interactive web interface:
 streamlit run app.py
 ```
 
+![output](docs/image.png)
+![output](docs/image-1.png)
+
 ---
 
 ## File Structure
